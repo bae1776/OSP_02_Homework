@@ -2,4 +2,5 @@ Third Text
 
 Change log  
 1. revised at master branch
-2. revised after making branch_01 
+2. revised after making branch_01
+3. because of conflict, text of branch_02 finally revised.
